@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.example.sneakership.viewModels.CartDetailViewModel" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="36dp">
+
+        <ImageButton
+            android:id="@+id/backButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:src="@drawable/ic_arrow_back_24"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.5" />
+
+        <TextView
+            android:id="@+id/cartText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cart"
+            android:textColor="@color/app_color"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/backButton"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/backButton"
+            app:layout_constraintVertical_bias="0.5" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="30dp"
+            app:layout_constraintBottom_toTopOf="@+id/orderDetailsText"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/cartText" />
+
+        <TextView
+            android:id="@+id/orderDetailsText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="8dp"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:text="@string/order_details"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:drawableEndCompat="@drawable/ic_info_24"
+            app:layout_constraintBottom_toTopOf="@id/subTotalText"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/subTotalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="4dp"
+            android:text="@{viewModel.subTotal}"
+            android:textColor="@color/gray"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@id/taxesChargesText"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:text="Sub Total: $43" />
+
+        <TextView
+            android:id="@+id/taxesChargesText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="30dp"
+            android:text="@{viewModel.taxes}"
+            android:textColor="@color/gray"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            app:layout_constraintBottom_toTopOf="@id/totalText"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:text="Taxes and Charges: $5" />
+
+        <TextView
+            android:id="@+id/totalText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="4dp"
+            android:text="@string/total"
+            android:textColor="@color/gray"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            app:layout_constraintBottom_toBottomOf="@id/checkoutButton"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/checkoutButton"
+            tools:text="Total: " />
+
+        <TextView
+            android:id="@+id/totalValue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{viewModel.totalValue}"
+            android:textColor="@color/app_color"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/checkoutButton"
+            app:layout_constraintStart_toEndOf="@id/totalText"
+            app:layout_constraintTop_toTopOf="@id/checkoutButton"
+            tools:text="$345" />
+
+        <Button
+            android:id="@+id/checkoutButton"
+            style="@style/CustomButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="14dp"
+            android:text="@string/checkout"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

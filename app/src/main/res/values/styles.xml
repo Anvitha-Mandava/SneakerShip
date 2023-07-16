@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppButtonOutlineSelectable" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:selectable">true</item>
+        <item name="backgroundTint">@color/color_selectable_button_bg</item>
+        <item name="strokeColor">@color/color_selectable_button_stroke</item>
+    </style>
+</resources>

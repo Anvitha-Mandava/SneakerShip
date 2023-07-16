@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.example.sneakership.viewModels.SneakerDetailViewModel" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="36dp">
+
+        <ImageButton
+            android:id="@+id/backButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:src="@drawable/ic_arrow_back_24"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.5" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="30dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintBottom_toTopOf="@id/textSneakerName"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:loadImageUrl="@{viewModel.currentImageUrl}" />
+
+
+        <ImageButton
+            android:id="@+id/btnPrevious"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:onClick="@{() -> viewModel.showPreviousImage()}"
+            android:padding="16dp"
+            android:src="@drawable/ic_arrow_left"
+            app:layout_constraintBottom_toTopOf="@id/textSneakerName"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/btnNext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:onClick="@{() -> viewModel.showNextImage()}"
+            android:padding="16dp"
+            android:src="@drawable/ic_arrow_right"
+            app:layout_constraintBottom_toTopOf="@id/textSneakerName"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textSneakerName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:drawablePadding="8dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="@{viewModel.sneakerName}"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:drawableEndCompat="@drawable/ic_info_24"
+            app:layout_constraintBottom_toTopOf="@id/description"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:text="Nike Air Jordan" />
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="40dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="@{viewModel.sneakerDescription}"
+            android:textColor="@color/gray"
+            android:textSize="14sp"
+            app:layout_constraintBottom_toTopOf="@id/sizeText"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:text="Nike Air Jordan" />
+
+        <TextView
+            android:id="@+id/sizeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="4dp"
+            android:text="@string/size"
+            android:textColor="@color/gray"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="@id/sizeOptions"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/sizeOptions" />
+
+        <LinearLayout
+            android:id="@+id/sizeOptions"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginBottom="30dp"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toTopOf="@id/colourText"
+            app:layout_constraintEnd_toEndOf="@id/colourOptions"
+            app:layout_constraintStart_toEndOf="@+id/sizeText">
+
+            <TextView
+                android:id="@+id/sizeOption7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/select_option_background"
+                android:gravity="center"
+                android:padding="4dp"
+                android:text="@string/_7"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/sizeOption8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/non_selected_option_background"
+                android:gravity="center"
+                android:padding="4dp"
+                android:text="@string/_8"
+                android:textColor="@color/app_color"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/sizeOption9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/non_selected_option_background"
+                android:gravity="center"
+                android:padding="4dp"
+                android:text="@string/_9"
+                android:textColor="@color/app_color"
+                android:textSize="24sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/colourText"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:text="@string/colour"
+            android:textColor="@color/gray"
+            android:textSize="24sp"
+            android:textStyle="normal"
+            app:layout_constraintBottom_toBottomOf="@id/colourOptions"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/colourOptions" />
+
+        <LinearLayout
+            android:id="@+id/colourOptions"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toTopOf="@id/priceText"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/sizeOptions"
+            app:layout_constraintTop_toBottomOf="@+id/sizeOptions">
+
+
+            <TextView
+                android:id="@+id/colorOption1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/ic_done_18"
+                android:gravity="center"
+                android:padding="10dp" />
+
+            <TextView
+                android:id="@+id/colorOption2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/background_colour_gray"
+                android:gravity="center"
+                android:padding="10dp" />
+
+            <TextView
+                android:id="@+id/colorOption3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/background_color_black"
+                android:gravity="center"
+                android:padding="10dp" />
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/priceText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="4dp"
+            android:text="@string/price"
+            android:textColor="@color/gray"
+            android:textSize="24sp"
+            android:textStyle="normal"
+            app:layout_constraintBottom_toBottomOf="@id/addToCart"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@id/addToCart" />
+
+        <TextView
+            android:id="@+id/price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{viewModel.sneakerPrice}"
+            android:textColor="@color/app_color"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/addToCart"
+            app:layout_constraintStart_toEndOf="@id/priceText"
+            app:layout_constraintTop_toTopOf="@id/addToCart"
+            tools:text="$345" />
+
+        <Button
+            android:id="@+id/addToCart"
+            style="@style/CustomButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="@{() -> viewModel.addSneakerToCart()}"
+            android:padding="14dp"
+            android:text="@string/add_to_cart"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

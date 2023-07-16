@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "1",
+    "brand": "Nike",
+    "colorway": "Black/White",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1625&q=80",
+      "smallImageUrl":"https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1625&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 100,
+    "styleId": "NIKE001",
+    "shoe": "Air Max",
+    "name": "Nike Air Max 2022",
+    "title": "Nike Air Max 2022 - Black/White",
+    "year": 2022
+  },
+  {
+    "id": "2",
+    "brand": "Adidas",
+    "colorway": "Grey/Red",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-30",
+    "retailPrice": 120,
+    "styleId": "ADIDAS001",
+    "shoe": "Superstar",
+    "name": "Adidas Superstar 2022",
+    "title": "Adidas Superstar 2022 - Grey/Red",
+    "year": 2022
+  },
+  {
+    "id": "3",
+    "brand": "Reebok",
+    "colorway": "White/Green",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-20",
+    "retailPrice": 90,
+    "styleId": "REEBOK001",
+    "shoe": "Classic",
+    "name": "Reebok Classic 2022",
+    "title": "Reebok Classic 2022 - White/Green",
+    "year": 2022
+  },
+  {
+    "id": "4",
+    "brand": "Puma",
+    "colorway": "Black/Yellow",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-25",
+    "retailPrice": 80,
+    "styleId": "PUMA001",
+    "shoe": "Suede",
+    "name": "Puma Suede 2022",
+    "title": "Puma Suede 2022 - Black/Yellow",
+    "year": 2022
+  },
+  {
+    "id": "5",
+    "brand": "Nike",
+    "colorway": "White/Black",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-05",
+    "retailPrice": 120,
+    "styleId": "NIKE002",
+    "shoe": "Air Force 1",
+    "name": "Nike Air Force 1 2022",
+    "title": "Nike Air Force 1 2022 - White/Black",
+    "year": 2022
+  },
+  {
+    "id": "6",
+    "brand": "Adidas",
+    "colorway": "Blue/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-10",
+    "retailPrice": 100,
+    "styleId": "ADIDAS002",
+    "shoe": "Ultraboost",
+    "name": "Adidas Ultraboost 2022",
+    "title": "Adidas Ultraboost 2022 - Blue/White",
+    "year": 2022
+  },
+  {
+    "id": "7",
+    "brand": "Reebok",
+    "colorway": "Black/Pink",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-01",
+    "retailPrice": 90,
+    "styleId": "REEBOK002",
+    "shoe": "Zig Kinetica",
+    "name": "Reebok Zig Kinetica 2022",
+    "title": "Reebok Zig Kinetica 2022 - Black/Pink",
+    "year": 2022
+  },
+  {
+    "id": "8",
+    "brand": "Puma",
+    "colorway": "White/Purple",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-20",
+    "retailPrice": 80,
+    "styleId": "PUMA002",
+    "shoe": "Cali",
+    "name": "Puma Cali 2022",
+    "title": "Puma Cali 2022 - White/Purple",
+    "year": 2022
+  },
+  {
+    "id": "9",
+    "brand": "Nike",
+    "colorway": "Black/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-01",
+    "retailPrice": 110,
+    "styleId": "NIKE003",
+    "shoe": "Jordan",
+    "name": "Nike Air Jordan 2022",
+    "title": "Nike Air Jordan 2022 - Black/Red",
+    "year": 2022
+  },
+  {
+    "id": "10",
+    "brand": "Adidas",
+    "colorway": "Green/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-25",
+    "retailPrice": 90,
+    "styleId": "ADIDAS003",
+    "shoe": "NMD",
+    "name": "Adidas NMD 2022",
+    "title": "Adidas NMD 2022 - Green/White",
+    "year": 2022
+  },
+  {
+    "id": "11",
+    "brand": "Reebok",
+    "colorway": "White/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-15",
+    "retailPrice": 100,
+    "styleId": "REEBOK003",
+    "shoe": "Nano X",
+    "name": "Reebok Nano X 2022",
+    "title": "Reebok Nano X 2022 - White/Blue",
+    "year": 2022
+  },
+  {
+    "id": "12",
+    "brand": "Puma",
+    "colorway": "Black/Green",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-30",
+    "retailPrice": 80,
+    "styleId": "PUMA003",
+    "shoe": "Rider",
+    "name": "Puma Rider 2022",
+    "title": "Puma Rider 2022 - Black/Green",
+    "year": 2022
+  },
+  {
+    "id": "13",
+    "brand": "Nike",
+    "colorway": "White/Blue/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-10",
+    "retailPrice": 130,
+    "styleId": "NIKE004",
+    "shoe": "Air Zoom",
+    "name": "Nike Air Zoom 2022",
+    "title": "Nike Air Zoom 2022 - White/Blue/Red",
+    "year": 2022
+  },
+  {
+    "id": "14",
+    "brand": "Adidas",
+    "colorway": "Black/Yellow/Blue",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-05",
+    "retailPrice": 110,
+    "styleId": "ADIDAS004",
+    "shoe": "Stan Smith",
+    "name": "Adidas Stan Smith 2022",
+    "title": "Adidas Stan Smith 2022 - Black/Yellow/Blue",
+    "year": 2022
+  },
+  {
+    "id": "15",
+    "brand": "Reebok",
+    "colorway": "Grey/Pink",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-05",
+    "retailPrice": 100,
+    "styleId": "REEBOK004",
+    "shoe": "Club C",
+    "name": "Reebok Club C 2022",
+    "title": "Reebok Club C 2022 - Grey/Pink",
+    "year": 2022
+  },
+  {
+    "id": "16",
+    "brand": "Puma",
+    "colorway": "White/Red/Black",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-10",
+    "retailPrice": 90,
+    "styleId": "PUMA004",
+    "shoe": "Future Rider",
+    "name": "Puma Future Rider 2022",
+    "title": "Puma Future Rider 2022 - White/Red/Black",
+    "year": 2022
+  },
+  {
+    "id": "17",
+    "brand": "Nike",
+    "colorway": "Black/Orange",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-20",
+    "retailPrice": 110,
+    "styleId": "NIKE005",
+    "shoe": "React",
+    "name": "Nike React 2022",
+    "title": "Nike React 2022 - Black/Orange",
+    "year": 2022
+  },
+  {
+    "id": "18",
+    "brand": "Adidas",
+    "colorway": "White/Green/Red",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-15",
+    "retailPrice": 100,
+    "styleId": "ADIDAS005",
+    "shoe": "Gazelle",
+    "name": "Adidas Gazelle 2022",
+    "title": "Adidas Gazelle 2022 - White/Green/Red",
+    "year": 2022
+  },
+  {
+    "id": "19",
+    "brand": "Reebok",
+    "colorway": "Black/Yellow/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-25",
+    "retailPrice": 90,
+    "styleId": "REEBOK005",
+    "shoe": "Question",
+    "name": "Reebok Question 2022",
+    "title": "Reebok Question 2022 - Black/Yellow/Red",
+    "year": 2022
+  },
+  {
+    "id": "20",
+    "brand": "Puma",
+    "colorway": "White/Blue/Black",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-15",
+    "retailPrice": 80,
+    "styleId": "PUMA005",
+    "shoe": "Clyde",
+    "name": "Puma Clyde 2022",
+    "title": "Puma Clyde 2022 - White/Blue/Black",
+    "year": 2022
+  },
+  {
+    "id": "21",
+    "brand": "Nike",
+    "colorway": "Black/Yellow/Orange",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-25",
+    "retailPrice": 120,
+    "styleId": "NIKE006",
+    "shoe": "Dunk",
+    "name": "Nike Dunk 2022",
+    "title": "Nike Dunk 2022 - Black/Yellow/Orange",
+    "year": 2022
+  },
+  {
+    "id": "22",
+    "brand": "Adidas",
+    "colorway": "White/Purple/Black",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-20",
+    "retailPrice": 110,
+    "styleId": "ADIDAS006",
+    "shoe": "Samba",
+    "name": "Adidas Samba 2022",
+    "title": "Adidas Samba 2022 - White/Purple/Black",
+    "year": 2022
+  },
+  {
+    "id": "23",
+    "brand": "Reebok",
+    "colorway": "Black/White/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-30",
+    "retailPrice": 100,
+    "styleId": "REEBOK006",
+    "shoe": "Instapump Fury",
+    "name": "Reebok Instapump Fury 2022",
+    "title": "Reebok Instapump Fury 2022 - Black/White/Red",
+    "year": 2022
+  },
+  {
+    "id": "24",
+    "brand": "Puma",
+    "colorway": "White/Red/Yellow",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-05",
+    "retailPrice": 90,
+    "styleId": "PUMA006",
+    "shoe": "Roma",
+    "name": "Puma Roma 2022",
+    "title": "Puma Roma 2022 - White/Red/Yellow",
+    "year": 2022
+  },
+  {
+    "id": "25",
+    "brand": "Nike",
+    "colorway": "Black/Pink/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-05",
+    "retailPrice": 130,
+    "styleId": "NIKE007",
+    "shoe": "VaporMax",
+    "name": "Nike VaporMax 2022",
+    "title": "Nike VaporMax 2022 - Black/Pink/Blue",
+    "year": 2022
+  },
+  {
+    "id": "1",
+    "brand": "Nike",
+    "colorway": "Black/White",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 100,
+    "styleId": "NIKE001",
+    "shoe": "Air Max",
+    "name": "Nike Air Max 2022",
+    "title": "Nike Air Max 2022 - Black/White",
+    "year": 2022
+  },
+  {
+    "id": "2",
+    "brand": "Adidas",
+    "colorway": "Grey/Red",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-30",
+    "retailPrice": 120,
+    "styleId": "ADIDAS001",
+    "shoe": "Superstar",
+    "name": "Adidas Superstar 2022",
+    "title": "Adidas Superstar 2022 - Grey/Red",
+    "year": 2022
+  },
+  {
+    "id": "3",
+    "brand": "Reebok",
+    "colorway": "White/Green",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-20",
+    "retailPrice": 90,
+    "styleId": "REEBOK001",
+    "shoe": "Classic",
+    "name": "Reebok Classic 2022",
+    "title": "Reebok Classic 2022 - White/Green",
+    "year": 2022
+  },
+  {
+    "id": "4",
+    "brand": "Puma",
+    "colorway": "Black/Yellow",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-25",
+    "retailPrice": 80,
+    "styleId": "PUMA001",
+    "shoe": "Suede",
+    "name": "Puma Suede 2022",
+    "title": "Puma Suede 2022 - Black/Yellow",
+    "year": 2022
+  },
+  {
+    "id": "5",
+    "brand": "Nike",
+    "colorway": "White/Black",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-05",
+    "retailPrice": 120,
+    "styleId": "NIKE002",
+    "shoe": "Air Force 1",
+    "name": "Nike Air Force 1 2022",
+    "title": "Nike Air Force 1 2022 - White/Black",
+    "year": 2022
+  },
+  {
+    "id": "6",
+    "brand": "Adidas",
+    "colorway": "Blue/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-10",
+    "retailPrice": 100,
+    "styleId": "ADIDAS002",
+    "shoe": "Ultraboost",
+    "name": "Adidas Ultraboost 2022",
+    "title": "Adidas Ultraboost 2022 - Blue/White",
+    "year": 2022
+  },
+  {
+    "id": "7",
+    "brand": "Reebok",
+    "colorway": "Black/Pink",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-01",
+    "retailPrice": 90,
+    "styleId": "REEBOK002",
+    "shoe": "Zig Kinetica",
+    "name": "Reebok Zig Kinetica 2022",
+    "title": "Reebok Zig Kinetica 2022 - Black/Pink",
+    "year": 2022
+  },
+  {
+    "id": "8",
+    "brand": "Puma",
+    "colorway": "White/Purple",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-20",
+    "retailPrice": 80,
+    "styleId": "PUMA002",
+    "shoe": "Cali",
+    "name": "Puma Cali 2022",
+    "title": "Puma Cali 2022 - White/Purple",
+    "year": 2022
+  },
+  {
+    "id": "9",
+    "brand": "Nike",
+    "colorway": "Black/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-01",
+    "retailPrice": 110,
+    "styleId": "NIKE003",
+    "shoe": "Jordan",
+    "name": "Nike Air Jordan 2022",
+    "title": "Nike Air Jordan 2022 - Black/Red",
+    "year": 2022
+  },
+  {
+    "id": "10",
+    "brand": "Adidas",
+    "colorway": "Green/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-25",
+    "retailPrice": 90,
+    "styleId": "ADIDAS003",
+    "shoe": "NMD",
+    "name": "Adidas NMD 2022",
+    "title": "Adidas NMD 2022 - Green/White",
+    "year": 2022
+  },
+  {
+    "id": "11",
+    "brand": "Reebok",
+    "colorway": "White/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-15",
+    "retailPrice": 100,
+    "styleId": "REEBOK003",
+    "shoe": "Nano X",
+    "name": "Reebok Nano X 2022",
+    "title": "Reebok Nano X 2022 - White/Blue",
+    "year": 2022
+  },
+  {
+    "id": "12",
+    "brand": "Puma",
+    "colorway": "Black/Green",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-30",
+    "retailPrice": 80,
+    "styleId": "PUMA003",
+    "shoe": "Rider",
+    "name": "Puma Rider 2022",
+    "title": "Puma Rider 2022 - Black/Green",
+    "year": 2022
+  },
+  {
+    "id": "13",
+    "brand": "Nike",
+    "colorway": "White/Blue/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-10",
+    "retailPrice": 130,
+    "styleId": "NIKE004",
+    "shoe": "Air Zoom",
+    "name": "Nike Air Zoom 2022",
+    "title": "Nike Air Zoom 2022 - White/Blue/Red",
+    "year": 2022
+  },
+  {
+    "id": "14",
+    "brand": "Adidas",
+    "colorway": "Black/Yellow/Blue",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-05",
+    "retailPrice": 110,
+    "styleId": "ADIDAS004",
+    "shoe": "Stan Smith",
+    "name": "Adidas Stan Smith 2022",
+    "title": "Adidas Stan Smith 2022 - Black/Yellow/Blue",
+    "year": 2022
+  },
+  {
+    "id": "15",
+    "brand": "Reebok",
+    "colorway": "Grey/Pink",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-05",
+    "retailPrice": 100,
+    "styleId": "REEBOK004",
+    "shoe": "Club C",
+    "name": "Reebok Club C 2022",
+    "title": "Reebok Club C 2022 - Grey/Pink",
+    "year": 2022
+  },
+  {
+    "id": "16",
+    "brand": "Puma",
+    "colorway": "White/Red/Black",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-10",
+    "retailPrice": 90,
+    "styleId": "PUMA004",
+    "shoe": "Future Rider",
+    "name": "Puma Future Rider 2022",
+    "title": "Puma Future Rider 2022 - White/Red/Black",
+    "year": 2022
+  },
+  {
+    "id": "17",
+    "brand": "Nike",
+    "colorway": "Black/Orange",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-20",
+    "retailPrice": 110,
+    "styleId": "NIKE005",
+    "shoe": "React",
+    "name": "Nike React 2022",
+    "title": "Nike React 2022 - Black/Orange",
+    "year": 2022
+  },
+  {
+    "id": "18",
+    "brand": "Adidas",
+    "colorway": "White/Green/Red",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-15",
+    "retailPrice": 100,
+    "styleId": "ADIDAS005",
+    "shoe": "Gazelle",
+    "name": "Adidas Gazelle 2022",
+    "title": "Adidas Gazelle 2022 - White/Green/Red",
+    "year": 2022
+  },
+  {
+    "id": "19",
+    "brand": "Reebok",
+    "colorway": "Black/Yellow/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-25",
+    "retailPrice": 90,
+    "styleId": "REEBOK005",
+    "shoe": "Question",
+    "name": "Reebok Question 2022",
+    "title": "Reebok Question 2022 - Black/Yellow/Red",
+    "year": 2022
+  },
+  {
+    "id": "20",
+    "brand": "Puma",
+    "colorway": "White/Blue/Black",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-15",
+    "retailPrice": 80,
+    "styleId": "PUMA005",
+    "shoe": "Clyde",
+    "name": "Puma Clyde 2022",
+    "title": "Puma Clyde 2022 - White/Blue/Black",
+    "year": 2022
+  },
+  {
+    "id": "21",
+    "brand": "Nike",
+    "colorway": "Black/Yellow/Orange",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-25",
+    "retailPrice": 120,
+    "styleId": "NIKE006",
+    "shoe": "Dunk",
+    "name": "Nike Dunk 2022",
+    "title": "Nike Dunk 2022 - Black/Yellow/Orange",
+    "year": 2022
+  },
+  {
+    "id": "22",
+    "brand": "Adidas",
+    "colorway": "White/Purple/Black",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-20",
+    "retailPrice": 110,
+    "styleId": "ADIDAS006",
+    "shoe": "Samba",
+    "name": "Adidas Samba 2022",
+    "title": "Adidas Samba 2022 - White/Purple/Black",
+    "year": 2022
+  },
+  {
+    "id": "23",
+    "brand": "Reebok",
+    "colorway": "Black/White/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-30",
+    "retailPrice": 100,
+    "styleId": "REEBOK006",
+    "shoe": "Instapump Fury",
+    "name": "Reebok Instapump Fury 2022",
+    "title": "Reebok Instapump Fury 2022 - Black/White/Red",
+    "year": 2022
+  },
+  {
+    "id": "24",
+    "brand": "Puma",
+    "colorway": "White/Red/Yellow",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-05",
+    "retailPrice": 90,
+    "styleId": "PUMA006",
+    "shoe": "Roma",
+    "name": "Puma Roma 2022",
+    "title": "Puma Roma 2022 - White/Red/Yellow",
+    "year": 2022
+  },
+  {
+    "id": "25",
+    "brand": "Nike",
+    "colorway": "Black/Pink/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-05",
+    "retailPrice": 130,
+    "styleId": "NIKE007",
+    "shoe": "VaporMax",
+    "name": "Nike VaporMax 2022",
+    "title": "Nike VaporMax 2022 - Black/Pink/Blue",
+    "year": 2022
+  },
+  {
+    "id": "1",
+    "brand": "Nike",
+    "colorway": "Black/White",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 100,
+    "styleId": "NIKE001",
+    "shoe": "Air Max",
+    "name": "Nike Air Max 2022",
+    "title": "Nike Air Max 2022 - Black/White",
+    "year": 2022
+  },
+  {
+    "id": "2",
+    "brand": "Adidas",
+    "colorway": "Grey/Red",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-30",
+    "retailPrice": 120,
+    "styleId": "ADIDAS001",
+    "shoe": "Superstar",
+    "name": "Adidas Superstar 2022",
+    "title": "Adidas Superstar 2022 - Grey/Red",
+    "year": 2022
+  },
+  {
+    "id": "3",
+    "brand": "Reebok",
+    "colorway": "White/Green",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-20",
+    "retailPrice": 90,
+    "styleId": "REEBOK001",
+    "shoe": "Classic",
+    "name": "Reebok Classic 2022",
+    "title": "Reebok Classic 2022 - White/Green",
+    "year": 2022
+  },
+  {
+    "id": "4",
+    "brand": "Puma",
+    "colorway": "Black/Yellow",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-25",
+    "retailPrice": 80,
+    "styleId": "PUMA001",
+    "shoe": "Suede",
+    "name": "Puma Suede 2022",
+    "title": "Puma Suede 2022 - Black/Yellow",
+    "year": 2022
+  },
+  {
+    "id": "5",
+    "brand": "Nike",
+    "colorway": "White/Black",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-05",
+    "retailPrice": 120,
+    "styleId": "NIKE002",
+    "shoe": "Air Force 1",
+    "name": "Nike Air Force 1 2022",
+    "title": "Nike Air Force 1 2022 - White/Black",
+    "year": 2022
+  },
+  {
+    "id": "6",
+    "brand": "Adidas",
+    "colorway": "Blue/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-10",
+    "retailPrice": 100,
+    "styleId": "ADIDAS002",
+    "shoe": "Ultraboost",
+    "name": "Adidas Ultraboost 2022",
+    "title": "Adidas Ultraboost 2022 - Blue/White",
+    "year": 2022
+  },
+  {
+    "id": "7",
+    "brand": "Reebok",
+    "colorway": "Black/Pink",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-01",
+    "retailPrice": 90,
+    "styleId": "REEBOK002",
+    "shoe": "Zig Kinetica",
+    "name": "Reebok Zig Kinetica 2022",
+    "title": "Reebok Zig Kinetica 2022 - Black/Pink",
+    "year": 2022
+  },
+  {
+    "id": "8",
+    "brand": "Puma",
+    "colorway": "White/Purple",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-20",
+    "retailPrice": 80,
+    "styleId": "PUMA002",
+    "shoe": "Cali",
+    "name": "Puma Cali 2022",
+    "title": "Puma Cali 2022 - White/Purple",
+    "year": 2022
+  },
+  {
+    "id": "9",
+    "brand": "Nike",
+    "colorway": "Black/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-01",
+    "retailPrice": 110,
+    "styleId": "NIKE003",
+    "shoe": "Jordan",
+    "name": "Nike Air Jordan 2022",
+    "title": "Nike Air Jordan 2022 - Black/Red",
+    "year": 2022
+  },
+  {
+    "id": "10",
+    "brand": "Adidas",
+    "colorway": "Green/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-25",
+    "retailPrice": 90,
+    "styleId": "ADIDAS003",
+    "shoe": "NMD",
+    "name": "Adidas NMD 2022",
+    "title": "Adidas NMD 2022 - Green/White",
+    "year": 2022
+  },
+  {
+    "id": "11",
+    "brand": "Reebok",
+    "colorway": "White/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-15",
+    "retailPrice": 100,
+    "styleId": "REEBOK003",
+    "shoe": "Nano X",
+    "name": "Reebok Nano X 2022",
+    "title": "Reebok Nano X 2022 - White/Blue",
+    "year": 2022
+  },
+  {
+    "id": "12",
+    "brand": "Puma",
+    "colorway": "Black/Green",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-30",
+    "retailPrice": 80,
+    "styleId": "PUMA003",
+    "shoe": "Rider",
+    "name": "Puma Rider 2022",
+    "title": "Puma Rider 2022 - Black/Green",
+    "year": 2022
+  },
+  {
+    "id": "13",
+    "brand": "Nike",
+    "colorway": "White/Blue/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-10",
+    "retailPrice": 130,
+    "styleId": "NIKE004",
+    "shoe": "Air Zoom",
+    "name": "Nike Air Zoom 2022",
+    "title": "Nike Air Zoom 2022 - White/Blue/Red",
+    "year": 2022
+  },
+  {
+    "id": "14",
+    "brand": "Adidas",
+    "colorway": "Black/Yellow/Blue",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-05",
+    "retailPrice": 110,
+    "styleId": "ADIDAS004",
+    "shoe": "Stan Smith",
+    "name": "Adidas Stan Smith 2022",
+    "title": "Adidas Stan Smith 2022 - Black/Yellow/Blue",
+    "year": 2022
+  },
+  {
+    "id": "15",
+    "brand": "Reebok",
+    "colorway": "Grey/Pink",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-05",
+    "retailPrice": 100,
+    "styleId": "REEBOK004",
+    "shoe": "Club C",
+    "name": "Reebok Club C 2022",
+    "title": "Reebok Club C 2022 - Grey/Pink",
+    "year": 2022
+  },
+  {
+    "id": "16",
+    "brand": "Puma",
+    "colorway": "White/Red/Black",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-10",
+    "retailPrice": 90,
+    "styleId": "PUMA004",
+    "shoe": "Future Rider",
+    "name": "Puma Future Rider 2022",
+    "title": "Puma Future Rider 2022 - White/Red/Black",
+    "year": 2022
+  },
+  {
+    "id": "17",
+    "brand": "Nike",
+    "colorway": "Black/Orange",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-20",
+    "retailPrice": 110,
+    "styleId": "NIKE005",
+    "shoe": "React",
+    "name": "Nike React 2022",
+    "title": "Nike React 2022 - Black/Orange",
+    "year": 2022
+  },
+  {
+    "id": "18",
+    "brand": "Adidas",
+    "colorway": "White/Green/Red",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-15",
+    "retailPrice": 100,
+    "styleId": "ADIDAS005",
+    "shoe": "Gazelle",
+    "name": "Adidas Gazelle 2022",
+    "title": "Adidas Gazelle 2022 - White/Green/Red",
+    "year": 2022
+  },
+  {
+    "id": "19",
+    "brand": "Reebok",
+    "colorway": "Black/Yellow/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-25",
+    "retailPrice": 90,
+    "styleId": "REEBOK005",
+    "shoe": "Question",
+    "name": "Reebok Question 2022",
+    "title": "Reebok Question 2022 - Black/Yellow/Red",
+    "year": 2022
+  },
+  {
+    "id": "20",
+    "brand": "Puma",
+    "colorway": "White/Blue/Black",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-15",
+    "retailPrice": 80,
+    "styleId": "PUMA005",
+    "shoe": "Clyde",
+    "name": "Puma Clyde 2022",
+    "title": "Puma Clyde 2022 - White/Blue/Black",
+    "year": 2022
+  },
+  {
+    "id": "21",
+    "brand": "Nike",
+    "colorway": "Black/Yellow/Orange",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-25",
+    "retailPrice": 120,
+    "styleId": "NIKE006",
+    "shoe": "Dunk",
+    "name": "Nike Dunk 2022",
+    "title": "Nike Dunk 2022 - Black/Yellow/Orange",
+    "year": 2022
+  },
+  {
+    "id": "22",
+    "brand": "Adidas",
+    "colorway": "White/Purple/Black",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-20",
+    "retailPrice": 110,
+    "styleId": "ADIDAS006",
+    "shoe": "Samba",
+    "name": "Adidas Samba 2022",
+    "title": "Adidas Samba 2022 - White/Purple/Black",
+    "year": 2022
+  },
+  {
+    "id": "23",
+    "brand": "Reebok",
+    "colorway": "Black/White/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-30",
+    "retailPrice": 100,
+    "styleId": "REEBOK006",
+    "shoe": "Instapump Fury",
+    "name": "Reebok Instapump Fury 2022",
+    "title": "Reebok Instapump Fury 2022 - Black/White/Red",
+    "year": 2022
+  },
+  {
+    "id": "24",
+    "brand": "Puma",
+    "colorway": "White/Red/Yellow",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-05",
+    "retailPrice": 90,
+    "styleId": "PUMA006",
+    "shoe": "Roma",
+    "name": "Puma Roma 2022",
+    "title": "Puma Roma 2022 - White/Red/Yellow",
+    "year": 2022
+  },
+  {
+    "id": "25",
+    "brand": "Nike",
+    "colorway": "Black/Pink/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-05",
+    "retailPrice": 130,
+    "styleId": "NIKE007",
+    "shoe": "VaporMax",
+    "name": "Nike VaporMax 2022",
+    "title": "Nike VaporMax 2022 - Black/Pink/Blue",
+    "year": 2022
+  },
+  {
+    "id": "1",
+    "brand": "Nike",
+    "colorway": "Black/White",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 100,
+    "styleId": "NIKE001",
+    "shoe": "Air Max",
+    "name": "Nike Air Max 2022",
+    "title": "Nike Air Max 2022 - Black/White",
+    "year": 2022
+  },
+  {
+    "id": "2",
+    "brand": "Adidas",
+    "colorway": "Grey/Red",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-30",
+    "retailPrice": 120,
+    "styleId": "ADIDAS001",
+    "shoe": "Superstar",
+    "name": "Adidas Superstar 2022",
+    "title": "Adidas Superstar 2022 - Grey/Red",
+    "year": 2022
+  },
+  {
+    "id": "3",
+    "brand": "Reebok",
+    "colorway": "White/Green",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-20",
+    "retailPrice": 90,
+    "styleId": "REEBOK001",
+    "shoe": "Classic",
+    "name": "Reebok Classic 2022",
+    "title": "Reebok Classic 2022 - White/Green",
+    "year": 2022
+  },
+  {
+    "id": "4",
+    "brand": "Puma",
+    "colorway": "Black/Yellow",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-25",
+    "retailPrice": 80,
+    "styleId": "PUMA001",
+    "shoe": "Suede",
+    "name": "Puma Suede 2022",
+    "title": "Puma Suede 2022 - Black/Yellow",
+    "year": 2022
+  },
+  {
+    "id": "5",
+    "brand": "Nike",
+    "colorway": "White/Black",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-05",
+    "retailPrice": 120,
+    "styleId": "NIKE002",
+    "shoe": "Air Force 1",
+    "name": "Nike Air Force 1 2022",
+    "title": "Nike Air Force 1 2022 - White/Black",
+    "year": 2022
+  },
+  {
+    "id": "6",
+    "brand": "Adidas",
+    "colorway": "Blue/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-10",
+    "retailPrice": 100,
+    "styleId": "ADIDAS002",
+    "shoe": "Ultraboost",
+    "name": "Adidas Ultraboost 2022",
+    "title": "Adidas Ultraboost 2022 - Blue/White",
+    "year": 2022
+  },
+  {
+    "id": "7",
+    "brand": "Reebok",
+    "colorway": "Black/Pink",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-01",
+    "retailPrice": 90,
+    "styleId": "REEBOK002",
+    "shoe": "Zig Kinetica",
+    "name": "Reebok Zig Kinetica 2022",
+    "title": "Reebok Zig Kinetica 2022 - Black/Pink",
+    "year": 2022
+  },
+  {
+    "id": "8",
+    "brand": "Puma",
+    "colorway": "White/Purple",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-20",
+    "retailPrice": 80,
+    "styleId": "PUMA002",
+    "shoe": "Cali",
+    "name": "Puma Cali 2022",
+    "title": "Puma Cali 2022 - White/Purple",
+    "year": 2022
+  },
+  {
+    "id": "9",
+    "brand": "Nike",
+    "colorway": "Black/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-01",
+    "retailPrice": 110,
+    "styleId": "NIKE003",
+    "shoe": "Jordan",
+    "name": "Nike Air Jordan 2022",
+    "title": "Nike Air Jordan 2022 - Black/Red",
+    "year": 2022
+  },
+  {
+    "id": "10",
+    "brand": "Adidas",
+    "colorway": "Green/White",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-25",
+    "retailPrice": 90,
+    "styleId": "ADIDAS003",
+    "shoe": "NMD",
+    "name": "Adidas NMD 2022",
+    "title": "Adidas NMD 2022 - Green/White",
+    "year": 2022
+  },
+  {
+    "id": "11",
+    "brand": "Reebok",
+    "colorway": "White/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-15",
+    "retailPrice": 100,
+    "styleId": "REEBOK003",
+    "shoe": "Nano X",
+    "name": "Reebok Nano X 2022",
+    "title": "Reebok Nano X 2022 - White/Blue",
+    "year": 2022
+  },
+  {
+    "id": "12",
+    "brand": "Puma",
+    "colorway": "Black/Green",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-30",
+    "retailPrice": 80,
+    "styleId": "PUMA003",
+    "shoe": "Rider",
+    "name": "Puma Rider 2022",
+    "title": "Puma Rider 2022 - Black/Green",
+    "year": 2022
+  },
+  {
+    "id": "13",
+    "brand": "Nike",
+    "colorway": "White/Blue/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-10",
+    "retailPrice": 130,
+    "styleId": "NIKE004",
+    "shoe": "Air Zoom",
+    "name": "Nike Air Zoom 2022",
+    "title": "Nike Air Zoom 2022 - White/Blue/Red",
+    "year": 2022
+  },
+  {
+    "id": "14",
+    "brand": "Adidas",
+    "colorway": "Black/Yellow/Blue",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-05",
+    "retailPrice": 110,
+    "styleId": "ADIDAS004",
+    "shoe": "Stan Smith",
+    "name": "Adidas Stan Smith 2022",
+    "title": "Adidas Stan Smith 2022 - Black/Yellow/Blue",
+    "year": 2022
+  },
+  {
+    "id": "15",
+    "brand": "Reebok",
+    "colorway": "Grey/Pink",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-05",
+    "retailPrice": 100,
+    "styleId": "REEBOK004",
+    "shoe": "Club C",
+    "name": "Reebok Club C 2022",
+    "title": "Reebok Club C 2022 - Grey/Pink",
+    "year": 2022
+  },
+  {
+    "id": "16",
+    "brand": "Puma",
+    "colorway": "White/Red/Black",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-10",
+    "retailPrice": 90,
+    "styleId": "PUMA004",
+    "shoe": "Future Rider",
+    "name": "Puma Future Rider 2022",
+    "title": "Puma Future Rider 2022 - White/Red/Black",
+    "year": 2022
+  },
+  {
+    "id": "17",
+    "brand": "Nike",
+    "colorway": "Black/Orange",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-20",
+    "retailPrice": 110,
+    "styleId": "NIKE005",
+    "shoe": "React",
+    "name": "Nike React 2022",
+    "title": "Nike React 2022 - Black/Orange",
+    "year": 2022
+  },
+  {
+    "id": "18",
+    "brand": "Adidas",
+    "colorway": "White/Green/Red",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-15",
+    "retailPrice": 100,
+    "styleId": "ADIDAS005",
+    "shoe": "Gazelle",
+    "name": "Adidas Gazelle 2022",
+    "title": "Adidas Gazelle 2022 - White/Green/Red",
+    "year": 2022
+  },
+  {
+    "id": "19",
+    "brand": "Reebok",
+    "colorway": "Black/Yellow/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-25",
+    "retailPrice": 90,
+    "styleId": "REEBOK005",
+    "shoe": "Question",
+    "name": "Reebok Question 2022",
+    "title": "Reebok Question 2022 - Black/Yellow/Red",
+    "year": 2022
+  },
+  {
+    "id": "20",
+    "brand": "Puma",
+    "colorway": "White/Blue/Black",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-15",
+    "retailPrice": 80,
+    "styleId": "PUMA005",
+    "shoe": "Clyde",
+    "name": "Puma Clyde 2022",
+    "title": "Puma Clyde 2022 - White/Blue/Black",
+    "year": 2022
+  },
+  {
+    "id": "21",
+    "brand": "Nike",
+    "colorway": "Black/Yellow/Orange",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-25",
+    "retailPrice": 120,
+    "styleId": "NIKE006",
+    "shoe": "Dunk",
+    "name": "Nike Dunk 2022",
+    "title": "Nike Dunk 2022 - Black/Yellow/Orange",
+    "year": 2022
+  },
+  {
+    "id": "22",
+    "brand": "Adidas",
+    "colorway": "White/Purple/Black",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-11-20",
+    "retailPrice": 110,
+    "styleId": "ADIDAS006",
+    "shoe": "Samba",
+    "name": "Adidas Samba 2022",
+    "title": "Adidas Samba 2022 - White/Purple/Black",
+    "year": 2022
+  },
+  {
+    "id": "23",
+    "brand": "Reebok",
+    "colorway": "Black/White/Red",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-10-30",
+    "retailPrice": 100,
+    "styleId": "REEBOK006",
+    "shoe": "Instapump Fury",
+    "name": "Reebok Instapump Fury 2022",
+    "title": "Reebok Instapump Fury 2022 - Black/White/Red",
+    "year": 2022
+  },
+  {
+    "id": "24",
+    "brand": "Puma",
+    "colorway": "White/Red/Yellow",
+    "gender": "Women",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-09-05",
+    "retailPrice": 90,
+    "styleId": "PUMA006",
+    "shoe": "Roma",
+    "name": "Puma Roma 2022",
+    "title": "Puma Roma 2022 - White/Red/Yellow",
+    "year": 2022
+  },
+  {
+    "id": "25",
+    "brand": "Nike",
+    "colorway": "Black/Pink/Blue",
+    "gender": "Men",
+    "media": {
+      "imageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "smallImageUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+      "thumbUrl": "https://images.unsplash.com/photo-1595909109003-889f4ee04d2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    },
+    "releaseDate": "2022-12-05",
+    "retailPrice": 130,
+    "styleId": "NIKE007",
+    "shoe": "VaporMax",
+    "name": "Nike VaporMax 2022",
+    "title": "Nike VaporMax 2022 - Black/Pink/Blue",
+    "year": 2022
+  }
+]

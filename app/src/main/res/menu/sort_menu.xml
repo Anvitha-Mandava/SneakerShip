@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_sort_default"
+        android:checkable="true"
+        android:title="@string/sort_default"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sort_price_low_to_high"
+        android:checkable="true"
+        android:title="@string/sort_price_low_to_high"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sort_price_high_to_low"
+        android:checkable="true"
+        android:title="@string/sort_price_high_to_low"
+        app:showAsAction="never" />
+</menu>
