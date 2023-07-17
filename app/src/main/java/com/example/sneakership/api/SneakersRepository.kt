@@ -3,9 +3,11 @@ package com.example.sneakership.api
 import com.example.sneakership.models.Sneaker
 import javax.inject.Inject
 
-class SneakersRepository @Inject constructor(private val dataSource: SneakersDataSource) {
+class SneakersRepository @Inject constructor(
+    private val sneakersService: SneakersService, private val errorHandler: ErrorHandler
+) {
 
     suspend fun getSneakersData(): Resource<List<Sneaker>> {
-        return dataSource.getSneakersData()
+        return errorHandler.handleApiResponse(sneakersService.getSneakersData())
     }
 }

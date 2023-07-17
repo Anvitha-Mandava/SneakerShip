@@ -22,10 +22,6 @@ fun showShortToast(msg: String?, context: Context = getContext()) {
     Toast.makeText(context, msg, Toast.LENGTH_SHORT).show()
 }
 
-enum class FragmentType {
-    HOME, CART
-}
-
 fun Double?.orZero(): Double = this ?: 0.0
 
 enum class TABS(var tabId: Int, var tag: String) {

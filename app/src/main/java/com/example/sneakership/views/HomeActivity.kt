@@ -7,15 +7,10 @@ import androidx.fragment.app.Fragment
 import com.example.sneakership.R
 import com.example.sneakership.databinding.ActivityHomeBinding
 import com.example.sneakership.helper.hideOtherFragments
-import com.example.sneakership.viewModels.HomeViewModel
 import dagger.hilt.android.AndroidEntryPoint
-import javax.inject.Inject
 
 @AndroidEntryPoint
 class HomeActivity : AppCompatActivity() {
-
-    @Inject
-    lateinit var homeViewModel: HomeViewModel
 
     private lateinit var binding: ActivityHomeBinding
     private var sneakersListFragment: SneakersListFragment = SneakersListFragment.newInstance()
@@ -26,7 +21,6 @@ class HomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityHomeBinding.inflate(layoutInflater)
-        binding.viewModel = homeViewModel
         setListeners()
         addInitialFragment()
         setContentView(binding.root)

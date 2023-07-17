@@ -45,7 +45,7 @@ class CartDetailViewModel @Inject constructor(val cartRepo: CartRepo) : ViewMode
         }
     }
 
-    private suspend fun calculateSubTotalValue(): Double {
+    suspend fun calculateSubTotalValue(): Double {
         return withContext(Dispatchers.Default) {
             val items = cartItems.value ?: emptyList()
             items.sumOf { it.price }
